@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "personal@murageh.co.ke",
+      "password": "$2a$10$JWC7V73JKAXIMNB26eVB0.1PvmzXa8/zWVqbUcZReNf7l4RXl02yq",
+      "name": "Murageh",
+      "phone": "+254700112233",
+      "id": 1,
+      "title": "Mr.",
+      "education": "BSc. Electronics and Computer Engineering"
+    },
+    {
+      "email": "johndoe@example.com",
+      "password": "$2a$10$kZ4gxO9SYkQ.VNHZhThlguvq7AJ0QcKDDCirEgYYuvU5Hdd.4NSqO",
+      "name": "John Doe",
+      "phone": "0700112233",
+      "id": 2
+    },
+    {
+      "email": "test@example.com",
+      "password": "$2a$10$vj8/y0eGom2A.QcEbU.ZYeVhbupTq5V0FMZvWR6gYU9dcFWk03Bm2",
+      "name": "Test user",
+      "phone": "0700112233",
+      "id": 3
+    }
+  ]
+}
